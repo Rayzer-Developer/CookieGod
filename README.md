@@ -1,2 +1,2 @@
-# GodCookies
+# CookieGod
  The name says it all.
